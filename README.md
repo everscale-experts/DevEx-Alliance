@@ -34,7 +34,7 @@
 1) В смысле опыт и навыки разработчика: developer skills and experience.  
    Пример: "he has 10 years of experience in this position".  
 2) В смысле впечатление (удовольствие) разработчика от среды разработки: Developer Experience is the equivalent of User Experience when the primary user of the product is a developer. DX cares about the developer experience of using a product, its libs, SDKs, documentation, frameworks, open-source solutions, general tools, APIs, etc.  
-   Пример: "he had already learned his lesson by painful experience".
+   Пример: "he had already learned his lesson by painful experience".  
 DevEx - это про второй вариант.  
 #### Почему бы не воспользоваться [DAO](https://everdao.net)?  
 ДАО плохо подходит для решения задач разработчиков, потому что там нет квалификации.  
